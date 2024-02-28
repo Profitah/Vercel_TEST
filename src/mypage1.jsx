@@ -69,7 +69,7 @@ const Mypage1 = () => {
           </StyledListItem>
         ))}
       </StyledList>
-      <img src="../public/Ive.jpeg" alt="Ive" />
+      <img src="/Ive.jpeg" alt="Ive" />
     </StyledContainer>
   );
 };
